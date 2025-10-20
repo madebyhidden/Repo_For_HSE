@@ -1,1 +1,2 @@
-Commit for Conflict in main
+Commit for Conflict in second_branch (important)
+
