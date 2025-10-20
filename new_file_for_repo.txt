@@ -1,2 +1,2 @@
-Commit for Conflict in second_branch (important)
+commit for revert
 
